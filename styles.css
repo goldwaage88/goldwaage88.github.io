@@ -201,12 +201,11 @@ header {
       text-align: center; }
 
       #area0 .wrapper .reiter_wrap .reiter .infos h3 {
-        color: #757575;
-        margin-bottom: 0px;
-        font-family: "Vidaloka", serif;
-        letter-spacing: 0.06em;
-        font-size: 1rem;
-        text-transform: uppercase; }
+color: #757575;
+    margin-bottom: 0px;
+    font-family: "Vidaloka", serif;
+    font-size: 1rem;
+    font-weight: 300; }
 
       #area0 .wrapper .reiter_wrap .reiter .infos p {
         color: #6B6B6B;
@@ -216,7 +215,7 @@ header {
         line-height: 1.35rem;
         width: 161px;
         margin: 0 auto;
-        padding-top: 20px; }
+        padding-top: 10px; }
 
     #area0 .wrapper .reiter_wrap .reiter .mehr {
       position: absolute;
