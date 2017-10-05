@@ -45,7 +45,7 @@ header #logo {
 
 .fullscreen {
   position: fixed;
-  padding-top: 20px;
+  padding-top: 40px;
   top: 12.5rem;
   pointer-events: none;
   left: 0;
